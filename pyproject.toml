@@ -14,7 +14,7 @@ ruff = "^0.1.0"
 scikit-learn = "^1.3.2"
 matplotlib = "^3.8.2"
 jupyterlab = "^4.0.0"
-huddles = {path = "../huddles", develop = true}  # TODO: after dev, point to pypi
+huddles = { path = "../huddles", develop = true } # TODO: after dev, point to pypi
 
 
 [build-system]
